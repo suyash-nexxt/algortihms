@@ -4,3 +4,4 @@ Common Algorithm challenges in javascript
 02 - Selection Sort
 03 - Quick Sort
 04 - Two Sum (Leetcode)
+05 - Merge Sort
