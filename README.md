@@ -6,4 +6,4 @@ Common Algorithm challenges in javascript
 04 - Two Sum (Leetcode)\
 05 - Merge Sort\
 06 - Third Highest (Leetcode)\
-07 -
+07 - Fibonacci (Leetcode)
