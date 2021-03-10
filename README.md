@@ -7,4 +7,5 @@ Common Algorithm challenges in javascript
 05 - Merge Sort\
 06 - Third Highest (Leetcode)\
 07 - Fibonacci (Leetcode)\
-08 - Deep Clone nested arrays
+08 - Deep Clone nested arrays\
+09 - Check parentheses
