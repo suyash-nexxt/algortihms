@@ -10,4 +10,5 @@ Common Algorithm challenges in javascript
 08 - Deep Clone nested arrays\
 09 - Check parentheses\
 10 - Insert num into sorted array\
-11 - Merge sorted array
+11 - Merge sorted array\
+12 - Object Destructuring
