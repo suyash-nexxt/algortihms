@@ -14,4 +14,5 @@ Common Algorithm challenges in javascript
 12 - Object Destructuring\
 13 - Async Await\
 14 - Prototypal_inheritance\
-15 - Array Map Implementation
+15 - Array Map Implementation\
+16 - Array Filter Implementation
