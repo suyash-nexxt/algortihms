@@ -13,4 +13,5 @@ Common Algorithm challenges in javascript
 11 - Merge sorted array\
 12 - Object Destructuring\
 13 - Async Await\
-14 - Prototypal_inheritance
+14 - Prototypal_inheritance\
+15 - Array Map Implementation
