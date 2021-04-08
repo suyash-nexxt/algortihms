@@ -15,4 +15,5 @@ Common Algorithm challenges in javascript
 13 - Async Await\
 14 - Prototypal_inheritance\
 15 - Array Map Implementation\
-16 - Array Filter Implementation
+16 - Array Filter Implementation\
+17 - Max sum sub array
