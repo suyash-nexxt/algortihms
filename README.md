@@ -17,4 +17,5 @@ Common Algorithm challenges in javascript
 15 - Array Map Implementation\
 16 - Array Filter Implementation\
 17 - Max sum sub array\
-18 - two sum O(n)
+18 - two sum O(n)\
+19 - array sliding window pattern
