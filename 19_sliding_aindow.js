@@ -10,7 +10,7 @@ function maxSum(arr, k) {
     sum += arr[right--] - arr[left--];
     max = Math.max(max, sum);
   }
-  returnmax;
+  return max;
 }
 
 // maxSum([1,2,3],3);// 6 // (1 + 2 + 3 = 6)
