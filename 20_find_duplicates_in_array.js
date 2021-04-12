@@ -1,7 +1,7 @@
 // Find duplicates in array
 
 function hasDuplicates(array) {
-  const words = newMap();
+  const words = new Map();
   for (let index = 0; index < array.length; index++) {
     const word = array[index];
     if (words.has(word)) {
