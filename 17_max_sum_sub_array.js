@@ -9,7 +9,7 @@ function maxSum(arr) {
     max = Math.max(max, local);
   });
 
-  returnmax;
+  return max;
 }
 
 maxSum([-2, 1, -3, 4, -1, 3, 1]);
