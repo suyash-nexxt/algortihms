@@ -19,4 +19,5 @@ Common Algorithm challenges in javascript
 17 - Max sum sub array\
 18 - Two sum O(n)\
 19 - Array sliding window pattern\
-20 - Find duplicates in array
+20 - Find duplicates in array\
+21 - Max profit
