@@ -23,5 +23,6 @@ Common Algorithm challenges in javascript
 21 - Max profit\
 22 - Two sum map\
 23 - Subarray equals k\
-24 - First non repeating char\
-25 - Check if anagram\
+24 - Check if anagram\
+25 - First non repeating char\
+26 - Sort Sentence
