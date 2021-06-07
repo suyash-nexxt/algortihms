@@ -25,4 +25,5 @@ Common Algorithm challenges in javascript
 23 - Subarray equals k\
 24 - Check if anagram\
 25 - First non repeating char\
-26 - Sort Sentence
+26 - Sort Sentence\
+27 - Sum odd Subarrays
