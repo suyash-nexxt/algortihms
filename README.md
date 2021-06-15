@@ -27,4 +27,5 @@ Common Algorithm challenges in javascript
 25 - First non repeating char\
 26 - Sort Sentence\
 27 - Sum odd Subarrays\
-28 - Decimal to Binary
+28 - Decimal to Binary\
+29 - Non decreasing array(leetcode)
