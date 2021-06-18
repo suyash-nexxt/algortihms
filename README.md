@@ -28,4 +28,5 @@ Common Algorithm challenges in javascript
 26 - Sort Sentence\
 27 - Sum odd Subarrays\
 28 - Decimal to Binary\
-29 - Non decreasing array(leetcode)
+29 - Non decreasing array(leetcode)\
+30 - Two sum using obj
