@@ -32,4 +32,5 @@ Common Algorithm challenges in javascript
 30 - Two sum using obj\
 31 - Min partitions (Leetcode)\
 32 - Merge sorted linked lists\
-33 - Balanced brackets
+33 - Balanced brackets\
+34 - Check Palindrome
