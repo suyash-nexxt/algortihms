@@ -34,4 +34,5 @@ Common Algorithm challenges in javascript
 32 - Merge sorted linked lists\
 33 - Balanced brackets\
 34 - Check Palindrome\
-35 - Convert to Roman number
+35 - Convert to Roman number\
+36 - Longest Substring
