@@ -36,4 +36,5 @@ Common Algorithm challenges in javascript
 34 - Check Palindrome\
 35 - Convert to Roman number\
 36 - Longest Substring\
-37 - Re-implement javascript includes
+37 - Re-implement javascript includes\
+38 - Convert array to object literal
