@@ -37,4 +37,5 @@ Common Algorithm challenges in javascript
 35 - Convert to Roman number\
 36 - Longest Substring\
 37 - Re-implement javascript includes\
-38 - Convert array to object literal
+38 - Convert array to object literal\
+39 - Flatten Array
