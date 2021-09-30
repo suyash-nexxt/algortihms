@@ -41,4 +41,5 @@ Common Algorithm challenges in javascript
 39 - Flatten Array\
 40 - Flip an image(leetcode)\
 41 - Matrix diagonal sum(leetcode)\
-42 - Find Numbers with Even Number of Digits(leetcode)
+42 - Find Numbers with Even Number of Digits(leetcode)\
+43 - Search insert position(leetcode)
