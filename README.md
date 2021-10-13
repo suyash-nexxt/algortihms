@@ -44,3 +44,4 @@ Common Algorithm challenges in javascript
 42 - Find Numbers with Even Number of Digits(leetcode)\
 43 - Search insert position(leetcode)\
 44 - walk a matrix (skilled.dev)\
+45 - sales by match (hackerrank)\
