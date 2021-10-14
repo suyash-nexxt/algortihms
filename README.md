@@ -46,4 +46,5 @@ Common Algorithm challenges in javascript
 44 - walk a matrix (skilled.dev)\
 45 - sales by match (hackerrank)\
 46 - hash table - ransom note (hackerrank)\
-47 - Kth smallest element in a sorted matrix(leetcode)
+47 - Kth smallest element in a sorted matrix(leetcode)\
+48 - Sum of Two Numbers in BSTs
