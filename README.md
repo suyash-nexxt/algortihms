@@ -48,4 +48,5 @@ Common Algorithm challenges in javascript
 46 - hash table - ransom note (hackerrank)\
 47 - Kth smallest element in a sorted matrix(leetcode)\
 48 - Sum of Two Numbers in BSTs\
-49 - Check Anagram
+49 - Check Anagram\
+50 - Max profit stock
