@@ -52,4 +52,5 @@ Common Algorithm challenges in javascript
 50 - Max profit stock\
 51 - Largest sum of non-adjacent numbers\
 52 - Binary Search\
-53 - Bubble Sort
+53 - Bubble Sort\
+54 - Selection Sort
