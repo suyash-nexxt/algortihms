@@ -50,4 +50,5 @@ Common Algorithm challenges in javascript
 48 - Sum of Two Numbers in BSTs\
 49 - Check Anagram\
 50 - Max profit stock\
-51 - Largest sum of non-adjacent numbers
+51 - Largest sum of non-adjacent numbers\
+52 - Binary Search
