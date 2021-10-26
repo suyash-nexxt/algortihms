@@ -49,4 +49,5 @@ Common Algorithm challenges in javascript
 47 - Kth smallest element in a sorted matrix(leetcode)\
 48 - Sum of Two Numbers in BSTs\
 49 - Check Anagram\
-50 - Max profit stock
+50 - Max profit stock\
+51 - Largest sum of non-adjacent numbers
