@@ -54,4 +54,7 @@ Common Algorithm challenges in javascript
 52 - Binary Search\
 53 - Bubble Sort\
 54 - Selection Sort\
-55 - Insertion Sort
+55 - Insertion Sort\
+56 - Count next element\
+57 - Remove last duplicate\
+58 - reverse string using stack
