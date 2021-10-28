@@ -57,4 +57,5 @@ Common Algorithm challenges in javascript
 55 - Insertion Sort\
 56 - Count next element\
 57 - Remove last duplicate\
-58 - reverse string using stack
+58 - reverse string using stack\
+59 - check opening closing braces using stack
